@@ -1,7 +1,7 @@
 % SREE ANJINEYA
 % OM GAM GANAPATIYE NAMAHA
 %% Dynamic mode Decomposition and DMD reconstruction code
-% Developed by G Srinivasan and Prof K.P.Sinhamapatra
+% Developed by G Srinivasan, Priyam Chakraborty and Prof K.P.Sinhamapatra
 % Indian Institute of Technology Kharagpur India
 
 %% Flushing memory, deleting old output files and creating necessary folders 
